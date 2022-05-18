@@ -1,0 +1,23 @@
+{
+  "name": "dio-typescript-estacionamento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogabriel15/dio-typescript-estacionamento.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaogabriel15/dio-typescript-estacionamento/issues"
+  },
+  "homepage": "https://github.com/joaogabriel15/dio-typescript-estacionamento#readme",
+  "dependencies": {
+    "typescript": "^4.6.4"
+  }
+}
